@@ -2,7 +2,7 @@ library(tidyverse)
 library(DT)
 library(dplyr)
 library(tidyr)
-heart_failure_clinical_records_dataset<-read.csv(file.choose(),header =TRUE)
+heart_failure_clinical_records_dataset<-read.csv("heart_failure_clinical_records_dataset.csv")
 heartfailure<-heart_failure_clinical_records_dataset
 str(heartfailure)
 View(heartfailure) 
