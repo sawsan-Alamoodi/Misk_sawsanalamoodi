@@ -1,5 +1,5 @@
 ---
-title: "ChickensAnalysis"
+title: "CheckensAnalysis"
 author: "Sawsan Alamoodi"
 date:  "4/5/2020"
 output: html_document 
