@@ -1,5 +1,5 @@
 ---
-title: "chichensAnalysis"
+title: "ChickensAnalysis"
 author: "Sawsan Alamoodi"
 date:  "4/5/2020"
 output: html_document 
@@ -17,6 +17,8 @@ library(shiny)
 library(agricolae)
 library(DT) 
 ```
+
+
 
 **Descriptive Statistics**
 ```{r chickavg}
